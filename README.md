@@ -20,13 +20,12 @@ Game Developer & Front-End Web Developer. Building interactive experiences and c
 
 ---
 
-## 🤝 Connect & Metrics
+## 🤝 Connect With Me
 
 <p align="left">
-  <a href="ضع_رابط_ديسكورد_الخاص_بك_هنا" target="_blank">
+  <a href="https://discord.com" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Oskar-pinara&color=blue&style=flat&label=Profile_Views" alt="Views" />
 </p>
 
 ---
@@ -34,5 +33,9 @@ Game Developer & Front-End Web Developer. Building interactive experiences and c
 ## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Oskar-pinara&theme=dark&hide_border=true&include_all_commits=true" alt="Oskar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Oskar-pinara&show_icons=true&theme=matrix&hide_border=true&include_all_commits=true" alt="Oskar's GitHub Stats" />
 </p>
+
+---
+
+📌 **Profile Views:** ![Visitor Counter](https://komarev.com/ghpvc/?username=Oskar-pinara&color=green&style=flat&label=Views)
